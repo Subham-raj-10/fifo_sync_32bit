@@ -7,10 +7,6 @@
 - `full` and `empty` flags behave as expected.
 - Output waveforms confirm correct data flow and pointer updates.
 
-### 📷 Screenshot:
-![Waveform](sync_fifo_32bit.png)
----
-
 ## 💻 Usage
 ### Requirements:
 - Xilinx Vivado 2024.2 or later
@@ -23,14 +19,8 @@
 
 ---
 ## 📌 Parameters
-
-| Parameter     | Description            | Default |
-
-|---------------|------------------------|---------|
-
-| `DATA\_WIDTH`  | Width of data bus      | `32`    |
-
-| `FIFO\_DEPTH`  | Number of FIFO entries | `8`     |
+`DATA_WIDTH` - Width of data bus - `32` 
+`FIFO_DEPTH` - Number of FIFO entries - `8` 
 
 ---
 
