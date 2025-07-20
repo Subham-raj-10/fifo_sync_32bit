@@ -19,7 +19,7 @@
 
 ---
 ## 📌 Parameters
-`DATA_WIDTH` - Width of data bus - `32` 
+`DATA_WIDTH` - Width of data bus - `32` , 
 `FIFO_DEPTH` - Number of FIFO entries - `8` 
 
 ---
