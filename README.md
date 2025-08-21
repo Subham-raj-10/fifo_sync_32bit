@@ -7,15 +7,6 @@
 - `full` and `empty` flags behave as expected.
 - Output waveforms confirm correct data flow and pointer updates.
 
-## 💻 Usage
-### Requirements:
-- Xilinx Vivado 2024.2 or later
-- GTKWave (optional, for `.vcd` viewing)
-### Run Simulation:
-
-1. Open `fifo_sync.xpr` in Vivado.
-2. Run Behavioral Simulation.
-3. Observe waveforms and status signals.
 
 ---
 ## 📌 Parameters
