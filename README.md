@@ -25,7 +25,7 @@
 
 ## ✍️ Author
 
-- **SUBHAMRAJ** (Replace this with your actual name or GitHub username)
+- **SUBHAMRAJ**
 - www.linkedin.com/in/ksubhamrajpatra
 
 ---
